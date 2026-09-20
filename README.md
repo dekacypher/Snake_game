@@ -21,5 +21,5 @@ and
 java Hovedprogram
 ```
 ## Contact
-For any additional questions or feedback, please contact avrinaradeni@gmail.com.
+For any additional questions or feedback, please contact dekamhalane@gmail.com.
 
